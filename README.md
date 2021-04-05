@@ -1,4 +1,6 @@
 # COMPUTER ARCHITECTURE
+Kodchamol Aukkarabenjasiri 6210612666
+
 CLIP
 1. CLIP2 https://youtu.be/bMw5O2sIf2g
 2. CLIP3 https://youtu.be/6GFGAgPebNk
@@ -7,3 +9,4 @@ CLIP
 5. CLIP6 https://youtu.be/g_GU-Krs2h0
 6. CLIP7 https://youtu.be/yR7dPMfk3jw
 7. CLIP8 https://youtu.be/U2n_zCitbok
+8. CLIP9 https://youtu.be/JA6o5KyAsEU
